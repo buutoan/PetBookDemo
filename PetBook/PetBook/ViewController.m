@@ -92,5 +92,9 @@
 -(void)testFunction
 {
     //em sửa vài code linh tinh ở đây , anh xem Blame ở đây sẽ thấy tên em ===========================>>>
+    //Ví dụ anh thêm dòng code ở đây nó sẽ báo file có chữ M <MModifil>
+    //giờ anh commit file này lên github
+    
+    
 }
 @end
