@@ -89,5 +89,8 @@
     UIAlertView *contactAddedAlert = [[UIAlertView alloc]initWithTitle:@"Contact Added" message:nil delegate:nil cancelButtonTitle:@"OK" otherButtonTitles: nil];
     [contactAddedAlert show];
 }
-
+-(void)testFunction
+{
+    //em sửa vài code linh tinh ở đây , anh xem Blame ở đây sẽ thấy tên em ===========================>>>
+}
 @end
